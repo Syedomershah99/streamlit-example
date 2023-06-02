@@ -54,5 +54,4 @@ def main():
         elif st.session_state["user_type"] == "Student":
             student_login()
 
-if _name_ == '_main_':
-    main()
+
